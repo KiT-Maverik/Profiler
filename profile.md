@@ -1,83 +1,26 @@
 # Profile
 
-## Name
+Name: Nick Orlov  
+Brief: I'm a senior web developer and architect specializing in React and Next.js. He builds scalable, high-performance frontends with a strong focus on UI/UX, reusable components, and rapid project delivery. Nick has led frontend architecture across diverse domains—from NFT marketplaces to big data platforms—and created a custom component library that significantly speeds up development. He’s also experienced in testing, technical writing, and contract-driven API integration.
+Education:
+    Bachelor degree: Computer Systems and Networks Service Engineer, 2004-2008
+    Master degree: Philologist-Interpreter, 2008-2011
 
-**Nick Orlov**
+Experience highlights
+- I've developed a comprehensive library of reusable components and utilities. This library enables rapid project initiation, allowing me to deliver a functional prototype in record time. Considering the amount of work put in this library, `I am saving about $30k` for projects starting from scratch.
+- I have experience building front-end architecture from scratch.
+- I have experience managing a team of 5 people, acting as a team lead.
+- I have experience integrating and facilitating code quality practices (Code standards, code reviews, retrospectives).
+- I have experience working with complex APIs, in contract-first paradigm.
+- I have experience building reusable components and libraries for future use.
+- I have experience working with WEB3 (Blockchain) and participating in the development of an NFT marketplace (
+  spaceseven.com).
+- I have experience working as an architect on a project with heavy MUI usage.
 
----
-
-# Education
-
-### College
-
-- **Speciality**: Computer Systems and Networks Service Engineer
-- **Enrolled**: 2004
-- **Graduated**: 2008
-
-### University
-
-- **Speciality**: Philologist-Interpreter
-- **Enrolled**: 2008
-- **Graduated**: 2011
-
----
-
-# Work Experience
-
-## By Owls (2022 - Present)
-
-**Title**: Software Development Engineer
-
-### Responsibilities:
-
-- Design and architect complex frontend solutions using React (scalability, performance, maintainability).
-- Lead frontend development projects (junior guidance, technical decisions, best practices).
-- Maintain and improve codebase (code quality, code reviews, refactoring, performance optimization).
-- Translate design mockups/wireframes into responsive and interactive user interfaces (seamless user experience).
-- Work with product owners and tech leads (identify and prioritize risks).
-
-### Achievements:
-
-- Implemented performance optimization techniques (reduced page load by 40%, improved SEO, increased organic traffic).
-- Provided mentorship (improved code quality by 30%, reduced bug count by 40% in Q1).
-- Received commendation for exceptional UI designs (increased ACT score by 80%).
-
----
-
-## Tacans (2021 - 2022)
-
-**Title**: Software Development Engineer
-
-### Responsibilities:
-
-- Software analysis, feature development, testing, debugging.
-- Technical assessment of mockups/wireframes and architectural designs/specifications.
-- Translate requirements into architectural designs.
-- Mentor junior colleagues (code review, pairing, mentoring).
-- Write and update technical documentation.
-- Share experience and mentor junior colleagues.
-
-### Achievements:
-
-- Implemented flexible and solid architecture for multi-language support.
-- Led product migration to NextJS framework.
-- Statistically the most productive developer in the team.
-
----
-
-## Alteryx (2017 - 2021)
-
-**Title**: Software Development Engineer
-
-### Responsibilities:
-
-- Participate in all SDLC stages (estimating, technical design, application implementation).
-- Quality control (code review, document solutions, own processes).
-- Front End adjustment for testing needs.
-
-### Achievements:
-
-- Implemented quality-oriented practices (development speed-up).
-- Developed sustainable and stable architecture for user journey simulations.
-
----
+Skills
+* Technologies: JS, TS, HTML, CSS, NodeJs, GraphQl, Http, Sql
+* Packages: NPM, Yarn, Storybook, Zod, Tanstack, Axios, Lodash
+* GiT: GiT, GitHub, Github actions, GitBook, GitLab, Vercel, Bitbucket
+* Frontend: React, React redux, Redux Toolkit, NextJS, VueJS, Tailwind
+* Styling: Material UI, Tailwind, Emotion JS, JSS, Styled Components, SASS, LESS, CSS Modules
+* Testing: Jest, Mocha
