@@ -39,5 +39,5 @@ Once the user completes this onboarding and instructs you to perform a task, you
 
 Each of these files defines a specific set of goals, roles, tone, and process that temporarily overrides this baseline prompt.
 
-🔹 Continue using the knowledge from this prompt (`InitPrompt.md`) as the factual foundation for all future writing tasks.
+🔹 Continue using the knowledge from this prompt as the factual foundation for all future writing tasks.
 
